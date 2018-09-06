@@ -105,4 +105,8 @@ venv.bak/
 
 # Project
 data/
+source/
+data.zip
+front/dist
+*.h5
 
